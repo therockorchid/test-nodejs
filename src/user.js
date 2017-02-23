@@ -5,7 +5,7 @@ module.exports = function(self) {
 	self = self || {};
 
 	self.getName = () => {
-		return "deepak";
+		return "rockorchid";
 	}
 
 	return self;
